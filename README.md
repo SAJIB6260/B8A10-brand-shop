@@ -39,11 +39,8 @@ after that i open vs code editor and setup tailwind css setup and daisyUi setup.
 
 
 
-<<<<<<< HEAD
-## 5.Some Features:
-=======
 ## 5.Features:
->>>>>>> a32e860 (create _redirects => /*  /index.html 200 and some changes darkMode & loading section)
+
 #### my pages has light mode and dark mode
 #### when i click a brand then show that brand related products. if a brand has no products then show an error message. 
 #### a product has two button one is product details button and other is updated product button.
