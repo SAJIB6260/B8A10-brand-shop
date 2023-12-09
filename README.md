@@ -63,10 +63,9 @@ after that i open vs code editor and setup tailwind css setup and daisyUi setup.
 
 
 ## 5.Features:
-
--#### my pages has light mode and dark mode
--#### when i click a brand then show that brand related products. if a brand has no products then show an error message. 
--#### a product has two button one is product details button and other is updated product button.
--#### when details buuton clicked then show add Cart button 
--#### when user clicked add cart button  then product added to add cart section by user email.
--#### user can buy that product or delete that product from Add cart section.
+#### my pages has light mode and dark mode
+#### when i click a brand then show that brand related products. if a brand has no products then show an error message. 
+#### a product has two button one is product details button and other is updated product button.
+#### when details buuton clicked then show add Cart button 
+#### when user clicked add cart button  then product added to add cart section by user email.
+#### user can buy that product or delete that product from Add cart section.
