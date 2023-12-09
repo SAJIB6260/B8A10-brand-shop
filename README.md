@@ -35,7 +35,30 @@ after that i open vs code editor and setup tailwind css setup and daisyUi setup.
 
 
 ## 4.Technologies Used:
-#### I used mainly React , Router , tailwind css framework , diasyUI component , mongoDB , express , node.js and firebase for Authentication
+- Html5
+- CSS 
+- Javascript (some) 
+- TailwindCSS 
+- React 
+- React Router Dom
+- Sweet alert
+- React-Toast
+- MongoDB
+- Express Js
+- Node Js
+- **[aos](https://www.npmjs.com/package/aos)**: Animate on Scroll library.
+- **[firebase](https://www.npmjs.com/package/firebase)**: Firebase SDK for JavaScript.
+- **[localforage](https://www.npmjs.com/package/localforage)**: Offline storage library.
+- **[match-sorter](https://www.npmjs.com/package/match-sorter)**: Simple, expected, and deterministic best-match sorting of an array in JavaScript.
+- **[react](https://www.npmjs.com/package/react)**: A JavaScript library for building user interfaces.
+- **[react-awesome-slider](https://www.npmjs.com/package/react-awesome-slider)**: A customizable and responsive image carousel component for React.
+- **[react-dom](https://www.npmjs.com/package/react-dom)**: React package for working with the DOM.
+- **[react-hot-toast](https://www.npmjs.com/package/react-hot-toast)**: Toast notifications for React.
+- **[react-icons](https://www.npmjs.com/package/react-icons)**: Icon library for React.
+- **[react-router-dom](https://www.npmjs.com/package/react-router-dom)**: DOM bindings for React Router.
+- **[sort-by](https://www.npmjs.com/package/sort-by)**: Simple utility to sort an array of objects by one or more properties.
+- **[sweetalert2](https://www.npmjs.com/package/sweetalert2)**: A beautiful, responsive, customizable, accessible (WAI-ARIA) replacement for JavaScript's popup boxes.
+
 
 
 
